@@ -22,4 +22,4 @@ as intended, download the **svd.mplstyle.txt** file.
 ### Projected Sequences
 
 Projected sequences are courtesy of:
-Rojas, Ana Maria, Gloria Fuentes, Antonio Rausell, and Alfonso Valencia. 2012. “The Ras Protein Superfamily: Evolutionary Tree and Role of Conserved Amino Acids.” Journal of Cell Biology 196 (2): 189–201. https://doi.org/10.1083/jcb.201103008
+* Rojas, Ana Maria, Gloria Fuentes, Antonio Rausell, and Alfonso Valencia. 2012. “The Ras Protein Superfamily: Evolutionary Tree and Role of Conserved Amino Acids.” Journal of Cell Biology 196 (2): 189–201. https://doi.org/10.1083/jcb.201103008
