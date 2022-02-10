@@ -18,3 +18,8 @@ and images that describe the data presented. To generate the graphs with the sam
 as intended, download the **svd.mplstyle.txt** file. 
 * **RAS_SVD_w_Figures.ipynb** is the Jupyter Notebook with figures + supplmental figures from the paper. It contains further functional analysis.
 * **RAS_SVD.ipynb** is an abbreviated Jupyter Notebook that has figures we believe are most important for understanding the SVD analysis of RAS. 
+
+### Projected Sequences
+
+Projected sequences are courtesy of:
+Rojas, Ana Maria, Gloria Fuentes, Antonio Rausell, and Alfonso Valencia. 2012. “The Ras Protein Superfamily: Evolutionary Tree and Role of Conserved Amino Acids.” Journal of Cell Biology 196 (2): 189–201. https://doi.org/10.1083/jcb.201103008
