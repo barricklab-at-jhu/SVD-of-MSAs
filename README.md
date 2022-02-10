@@ -1,5 +1,6 @@
 # sequence-svd
 
+The following repository is for the code associated with "Singular value decomposition of protein sequences as a method to visualize sequence and residue space" by G. El Nesr, A. Koenigs, and D. Barrick.
 
 ## Table of Contents
 
