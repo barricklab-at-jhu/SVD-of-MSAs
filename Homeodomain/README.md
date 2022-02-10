@@ -18,3 +18,8 @@ and images that describe the data presented. To generate the graphs with the sam
 as intended, download the **svd.mplstyle.txt** file. 
 * **HD_SVD_w_Figures.ipynb** is the Jupyter Notebook with figures + supplmental figures from the paper. It contains further functional analysis.
 * **HD_SVD.ipynb** is an abbreviated Jupyter Notebook that has figures we believe are most important for understanding the SVD analysis of HD. 
+
+### Projected Sequences
+
+Projected sequences are courtesy of:
+* Noyes, Marcus B., Ryan G. Christensen, Atsuya Wakabayashi, Gary D. Stormo, Michael H. Brodsky, and Scot A. Wolfe. 2008. “Analysis of Homeodomain Specificities Allows the Family-Wide Prediction of Preferred Recognition Sites.” Cell 133 (7): 1277–89. https://doi.org/10.1016/j.cell.2008.05.023.
