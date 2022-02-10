@@ -1,0 +1,195 @@
+,red,blue,orange,green
+GTPase activity,4791.0,1616.0,1175.0,2447.0
+GTP binding,4809.0,1666.0,1210.0,2453.0
+ATP binding,17.0,7.0,5.0,23.0
+protein kinase activity,11.0,,2.0,8.0
+metal ion transmembrane transporter activity,1.0,,,
+sphingomyelin phosphodiesterase activity,15.0,19.0,5.0,2.0
+4 iron,1.0,,1.0,
+4 sulfur cluster binding,1.0,,1.0,
+metal ion binding,15.0,8.0,4.0,65.0
+structural constituent of ribosome,3.0,1.0,,2.0
+calcium ion binding,61.0,3.0,1.0,317.0
+protein-containing complex binding,13.0,1.0,,4.0
+molecular adaptor activity,1.0,,,
+dolichyl-diphosphooligosaccharide-protein glycotransferase activity,1.0,,,
+oxidoreductase activity,4.0,1.0,2.0,2.0
+zinc ion binding,2.0,7.0,1.0,8.0
+"mannosyl-oligosaccharide 1,2-alpha-mannosidase activity",1.0,,,
+actin binding,2.0,,,3.0
+small GTPase binding,1.0,1.0,,1.0
+GTPase activator activity,11.0,5.0,1.0,58.0
+IMP dehydrogenase activity,1.0,,,
+glutaminase activity,1.0,,,
+DNA binding,2.0,3.0,2.0,4.0
+protein heterodimerization activity,2.0,,,3.0
+GDP binding,16.0,210.0,,31.0
+glycylpeptide N-tetradecanoyltransferase activity,1.0,,,
+ubiquitin-protein transferase activity,4.0,,1.0,1.0
+metalloendopeptidase activity,2.0,,,
+4-alpha-glucanotransferase activity,1.0,,,
+"amylo-alpha-1,6-glucosidase activity",1.0,,,
+peptidyl-prolyl cis-trans isomerase activity,7.0,,,
+channel activity,1.0,,,
+transferase activity,6.0,1.0,,1.0
+protein kinase binding,1.0,2.0,155.0,24.0
+heme binding,1.0,,1.0,1.0
+guanyl nucleotide binding,1.0,,,
+cyclin-dependent protein serine/threonine kinase inhibitor activity,2.0,,,
+protein kinase inhibitor activity,2.0,,,
+RNA binding,7.0,1.0,2.0,4.0
+nucleotide binding,2.0,,,
+mRNA binding,2.0,,,
+ankyrin repeat binding,4.0,,,
+GTPase activating protein binding,6.0,,,
+phospho-N-acetylmuramoyl-pentapeptide-transferase activity,1.0,,,
+transferring glycosyl groups,2.0,,,
+UDP-N-acetylglucosamine-dolichyl-phosphate N-acetylglucosaminephosphotransferase activity,1.0,,,
+protein serine kinase activity,2.0,,,2.0
+protein threonine kinase activity,2.0,,,2.0
+GTP-dependent protein binding,5.0,,,
+myosin V binding,3.0,,,
+serine-type endopeptidase activity,1.0,,,1.0
+protein tyrosine/serine/threonine phosphatase activity,1.0,,,
+protein tyrosine phosphatase activity,1.0,1.0,1.0,
+acid phosphatase activity,1.0,,,
+aldose 1-epimerase activity,1.0,,,
+carbohydrate binding,1.0,,,
+glucose-6-phosphate 1-epimerase activity,1.0,,,
+D-threo-aldose 1-dehydrogenase activity,1.0,,,
+NAD+ binding,1.0,,,
+aspartic-type endopeptidase activity,1.0,,,1.0
+poly(A)-specific ribonuclease activity,1.0,,,
+G protein activity,26.0,78.0,40.0,8.0
+phosphatidylinositol-3-phosphate binding,1.0,,,
+ubiquitin binding,1.0,1.0,,
+inositol pentakisphosphate 2-kinase activity,1.0,,,
+transmembrane transporter activity,2.0,,,1.0
+cysteine-type endopeptidase inhibitor activity,1.0,,,
+ion channel activity,2.0,,,
+flavin adenine dinucleotide binding,1.0,1.0,,
+acting on the CH-CH group of donors,1.0,,,
+superoxide dismutase activity,1.0,,,
+DNA-binding transcription factor activity,2.0,,,
+SNARE binding,2.0,,,1.0
+myosin XI tail binding,1.0,,,
+protein kinase A catalytic subunit binding,1.0,,,
+ATPase activator activity,1.0,,,
+ATPase binding,1.0,,,
+ionotropic glutamate receptor binding,1.0,,,
+syntaxin binding,1.0,,,
+phosphatidylinositol 3-kinase catalytic subunit binding,1.0,,,
+kinase binding,1.0,1.0,,
+1-phosphatidylinositol-3-kinase regulator activity,1.0,,,
+structural constituent of cytoskeleton,1.0,,,
+SMAD binding,1.0,,,
+protein tyrosine kinase activity,2.0,,,3.0
+serine-tRNA ligase activity,1.0,1.0,,
+GMP binding,1.0,,,
+helicase activity,1.0,3.0,,
+solute:proton antiporter activity,1.0,,,
+guanyl-nucleotide exchange factor activity,2.0,3.0,1.0,21.0
+methyltransferase activity,1.0,,,1.0
+N-acetyltransferase activity,1.0,,,1.0
+transferring acyl groups other than amino-acyl groups,1.0,,,
+nuclease activity,1.0,,,
+thymidine kinase activity,1.0,,,
+FAD binding,1.0,,,
+AP-1 adaptor complex binding,2.0,,,
+AP-3 adaptor complex binding,2.0,,,
+BLOC-2 complex binding,2.0,,,
+identical protein binding,2.0,,,
+phosphatase activity,1.0,,,
+nucleosome-dependent ATPase activity,,1.0,,
+structural constituent of nuclear pore,,1.0,,
+dolichol kinase activity,,1.0,,
+nucleic acid binding,,3.0,3.0,1.0
+"homogentisate 1,2-dioxygenase activity",,1.0,,
+"N,N-dimethylaniline monooxygenase activity",,1.0,,
+NADP binding,,1.0,,
+calcium channel regulator activity,,13.0,,8.0
+dioxygenase activity,,1.0,1.0,
+calmodulin binding,,7.0,,1.0
+ubiquitin protein ligase activity,,1.0,1.0,
+iron ion binding,,1.0,1.0,2.0
+tyrosine 3-monooxygenase activity,,1.0,,
+phosphatidylinositol binding,,1.0,,
+magnesium ion binding,,2.0,,1.0
+phospholipase binding,,1.0,,
+"GDP-mannose 4,6-dehydratase activity",,1.0,,
+CTP binding,,7.0,,
+UTP binding,,7.0,,
+chromatin binding,,2.0,,
+semaphorin receptor binding,,2.0,,
+phosphoprotein phosphatase activity,,1.0,,1.0
+DNA primase activity,,1.0,,
+MAP kinase kinase activity,,1.0,,
+protein serine/threonine kinase activator activity,,1.0,1.0,
+adenylate cyclase activator activity,,2.0,,
+guanylate cyclase activator activity,,3.0,,
+phosphatidylinositol 3-kinase binding,,2.0,,
+TORC2 complex binding,,1.0,,
+ATPase activity,,1.0,1.0,2.0
+unfolded protein binding,,1.0,,
+acting on paired donors,,,1.0,1.0
+with incorporation or reduction of molecular oxygen,,,1.0,1.0
+cysteine-type endopeptidase activity,,,3.0,1.0
+signaling adaptor activity,,,2.0,
+"GDP-Man:Man1GlcNAc2-PP-Dol alpha-1,3-mannosyltransferase activity",,,1.0,
+"GDP-Man:Man2GlcNAc2-PP-dolichol alpha-1,6-mannosyltransferase activity",,,1.0,
+protein N-terminus binding,,,1.0,
+G-protein beta-subunit binding,,,8.0,
+3'-5' exonuclease activity,,,1.0,
+mRNA guanylyltransferase activity,,,1.0,
+polynucleotide 5'-phosphatase activity,,,1.0,
+L-serine ammonia-lyase activity,,,1.0,
+enzyme binding,,,1.0,
+2 iron,,,1.0,
+2 sulfur cluster binding,,,1.0,
+ubiquinol-cytochrome-c reductase activity,,,1.0,
+carboxylic ester hydrolase activity,,,1.0,
+S-formylglutathione hydrolase activity,,,1.0,
+protein serine/threonine kinase activity,,,1.0,3.0
+protein domain specific binding,,,3.0,
+sequence-specific DNA binding,,,1.0,
+pseudouridine synthase activity,,,1.0,
+aspartyltransferase activity,,,,1.0
+phosphotyrosine residue binding,,,,1.0
+endopeptidase inhibitor activity,,,,1.0
+NAD+ kinase activity,,,,1.0
+protein transmembrane transporter activity,,,,1.0
+G-quadruplex RNA binding,,,,1.0
+protein-disulfide reductase (glutathione) activity,,,,1.0
+sodium channel activity,,,,1.0
+phospholipase A2 activity,,,,1.0
+protein disulfide isomerase activity,,,,1.0
+kinase activity,,,,1.0
+motor activity,,,,2.0
+phosphatidylinositol phosphate kinase activity,,,,1.0
+inositol oxygenase activity,,,,1.0
+ribonuclease T2 activity,,,,1.0
+structural molecule activity,,,,1.0
+S-adenosylmethionine-dependent methyltransferase activity,,,,1.0
+selenocysteine insertion sequence binding,,,,1.0
+malate dehydrogenase (decarboxylating) (NAD+) activity,,,,3.0
+NAD binding,,,,3.0
+toxin activity,,,,2.0
+polyubiquitin modification-dependent protein binding,,,,1.0
+rRNA N-glycosylase activity,,,,2.0
+phosphatidylinositol 3-kinase regulator activity,,,,1.0
+protein kinase activator activity,,,,1.0
+carbonate dehydratase activity,,,,1.0
+glucose-6-phosphate isomerase activity,,,,1.0
+O-acyltransferase activity,,,,1.0
+phospholipid binding,,,,2.0
+protein serine phosphatase activity,,,,1.0
+protein threonine phosphatase activity,,,,1.0
+phosphoric diester hydrolase activity,,,,1.0
+dynein heavy chain binding,,,,2.0
+orotidine-5'-phosphate decarboxylase activity,,,,1.0
+ribonucleoside-diphosphate reductase activity,,,,1.0
+thioredoxin disulfide as acceptor,,,,1.0
+extracellular ligand-gated ion channel activity,,,,1.0
+transmembrane signaling receptor activity,,,,1.0
+G protein-coupled receptor activity,,,,1.0
+U1 snRNA binding,,,,1.0
