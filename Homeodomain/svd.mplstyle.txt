@@ -1,0 +1,41 @@
+# Set color cycle: blue, green, yellow, red, violet, gray
+
+# Set default figure size
+figure.figsize : 6, 4
+
+# Set x axis
+xtick.direction : in
+xtick.major.size : 3
+xtick.major.width : 0.5
+xtick.minor.size : 1.5
+xtick.minor.width : 0.5
+xtick.minor.visible : True
+xtick.top : True
+
+# Set y axis
+ytick.direction : in
+ytick.major.size : 3
+ytick.major.width : 0.5
+ytick.minor.size : 1.5
+ytick.minor.width : 0.5
+ytick.minor.visible : True
+ytick.right : True
+
+# Set line widths
+axes.linewidth : 0.5
+grid.linewidth : 0.5
+lines.linewidth : 1.
+
+# Remove legend frame
+legend.frameon : False
+
+# Always save as 'tight'
+savefig.bbox : tight
+savefig.pad_inches : 0.05
+
+# Use serif fonts
+font.serif : Helvetica
+
+# Axes Settings
+axes.titlesize  : large
+axes.labelsize : medium
