@@ -63,9 +63,7 @@ To learn more about pip, visit <a href='https://pip.pypa.io/en/stable/installati
 ## Workflow
 
 1. Generate an adequate Multiple Sequence Alignment (MSA)
-2. Run the singular-value decomposition function. Either of the following will work:
-    * Jupyter notebook 
-    * Python script 
+2. Run the singular-value decomposition function. This can be accessed from the Jupyter Notebook.
 3. Run the Web-scraping script for Uniprot.org.
 
 You can find more in-depth information about each of the associated steps, their requirements and their workflow. 
