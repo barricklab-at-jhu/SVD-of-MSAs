@@ -23,7 +23,7 @@ Singular value decomposition (SVD) of multiple sequence alignments (MSAs) is an 
 
 ## Quickstart
 
-Clone the repo: ```git clone https://github.com/gelnesr/svd-proteins.git```
+Clone the repo: ```git clone https://github.com/barricklab-at-jhu/SVD-of-MSAs.git```
 
 <a name="requirements"/>
 
