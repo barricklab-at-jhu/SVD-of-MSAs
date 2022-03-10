@@ -1,6 +1,6 @@
 # Singular Value Decomposition (SVD) for Protein Sequences & MSAs
 
-The following repository is for the code associated with "Singular value decomposition of protein sequences as a method to visualize sequence and residue space" by G. El Nesr*, A. Koenigs*, and D. Barrick.
+The following repository is for the code associated with "Singular value decomposition of protein sequences as a method to visualize sequence and residue space" by A. Koenigs*, G. El Nesr*, and D. Barrick.
 
 ## Table of Contents
 
