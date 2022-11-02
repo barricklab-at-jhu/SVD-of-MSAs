@@ -118,12 +118,5 @@ The output of the script will be a CSV file that contains all of the following i
 * Organism Name
 * Taxonomic ID
 * Molecular Function - GO Annot
-* Molecular Function - Keywords
 * Biological Processes - GO Annot
-* Biological Processes - Keywords
 * Cellular Component - GO Annot
-* Cellular Component - Keywords
-* Disease - OMIM ID
-* Disease - Keywords
-* Technical Terms - Keywords
-* Polymorphism

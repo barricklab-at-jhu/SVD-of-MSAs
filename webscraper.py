@@ -119,7 +119,7 @@ with open(output_file, 'w') as csvfile1:
                 display_list(molecular_function_go),
                 display_list(biological_process_go),
                 display_list(cellular_component_go)]) 
-        
+
         except:
             pass
 
