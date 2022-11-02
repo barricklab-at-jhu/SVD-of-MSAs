@@ -19,4 +19,4 @@ seqs_gap_removed = [seq.replace('-', '').replace('.', '') for seq in sequences]
 
 with open(f'{file[:-4]}_gapsRemoved.txt', 'w') as f:
     for name, seq in zip(names, seqs_gap_removed):
-        f.write(f'{name}\n{seq}\n')
+        f.write(f'>{name}\n{seq}\n')
